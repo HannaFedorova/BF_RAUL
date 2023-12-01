@@ -12,5 +12,4 @@ https://raoul.spb.ru
 ● Результат: разработала дашборд, на основе которого сотрудники могут получать визуальное представление о ключевых показателях деятельности фонда в интерактивном виде. Дашборд помогает делать выводы и принимать обоснованные решения.
 ● Инстументы и технологии: Power BI, Python, pandas.
 
-[Ссылка на дашборд:]
-(https://app.powerbi.com/groups/me/reports/e976e6d5-2e52-4a77-a106-3076de45619a/ReportSectiona20e0bdbb09f90246e22?experience=power-bi)
+[Ссылка на дашборд:](https://app.powerbi.com/groups/me/reports/e976e6d5-2e52-4a77-a106-3076de45619a/ReportSectiona20e0bdbb09f90246e22?experience=power-bi/)
